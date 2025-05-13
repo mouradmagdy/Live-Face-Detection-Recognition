@@ -152,10 +152,6 @@ PKGCONFIG += opencv4
 3. Add folders "dataset4" with the training dataset, "dataset4files" empty , "test" with your testing data, "dataset4live" with training live data to your build directory
 4. Build the project to generate the executable.
 
-### Try a demo
-
-[ Download Here !]
-
 ---
 
 ### Contributors
